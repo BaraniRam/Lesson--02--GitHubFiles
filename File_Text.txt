@@ -1,1 +1,2 @@
 Welcome to test file
+Adding a new line
